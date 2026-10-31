@@ -1,0 +1,3 @@
+firmware/*.elf
+firmware/*.hex
+__pycache__/
